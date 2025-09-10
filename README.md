@@ -6,7 +6,7 @@
 
 # Playbooks Repository
 
-This is LogicVein's public repository for company and community contributed Playbooks for use in our Net LineDancer and ThirdEye Suite products. The repository is organized by Vendor and Operating System.
+This is [LogicVein's](https://logicvein.com) public repository for company and community contributed Playbooks for use in our Net LineDancer and ThirdEye Suite products. The repository is organized by Vendor and Operating System.
 
 > [!TIP]
 > If you have a Playbook that you would like to contribute, export the JSON file from the product and submit it here as a *Pull request*. A team member will review it, provide possible feedback, and merge it if it passes quality and correctness checks.
